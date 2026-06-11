@@ -142,6 +142,32 @@
                         <summary>Object Detection with Deep Learning</summary>
                         <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/10-04.jpg">
                  </details>
+                 <details>
+                    <summary><h4>Organize Tabular Data in MATLAB</h4></summary>
+                    <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/LearnPath/11_Organize Tabular Data in MATLAB.jpg">
+                        <summary>Tables</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/06-01.jpg">
+                        <summary>Clean and Prepare Data for Analysis</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/06-02.jpg">
+                        <summary>Combine Tabular Datasets</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/11-01.jpg">
+                        <summary>Import Data from Multiple Files</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/11-02.jpg">
+                 </details>
+                 <details>
+                    <summary><h4>Handle Inconsistent and Unstructured Data Files</h4></summary>
+                    <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/LearnPath/12_Handle Inconsistent and Unstructured Data Files.jpg">
+                        <summary>Programming Constructs</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/03-02.jpg">
+                        <summary>A Tour of MATLAB Data Types</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/12-01.jpg">
+                        <summary>Import Irregular Data</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/12-02.jpg">
+                        <summary>Cells and Structures</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/12-04.jpg">
+                        <summary>Debugging and Error Handling</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/12-03.jpg">
+                 </details>
         </details>
     </details>
 </details>
