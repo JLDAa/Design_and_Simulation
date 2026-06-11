@@ -4,7 +4,7 @@
 <!-- 这里放方案A的表格或者一排排小图 -->
 <table>
   <tr>
-    <td><img src="../Certificate_of_Completion/assects/MathWorks/Matlab/01_Matlab_Onramp.jpg" width="140"></td>
+    <td><img src="../Certificate_of_Completion/assects/MathWorks/Matlab/01_Matlab_Onramp.jpg" width="300"></td>
     
   </tr>
 </table>
