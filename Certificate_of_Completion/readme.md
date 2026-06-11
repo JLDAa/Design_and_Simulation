@@ -19,6 +19,54 @@
                         <img src="../Certificate_of_Completion/assects/MathWorks/Simulink/02-05.jpg">
                 </details>
             </details>
+            <details>
+            <summary><h3>Simscape Battery Onramp</h3></summary>
+                 <img src="../Certificate_of_Completion/assects/MathWorks/Simulink/04.jpg">
+            </details>
+            <details>
+            <summary><h3>Battery Pack Modeling</h3></summary>
+                 <img src="../Certificate_of_Completion/assects/MathWorks/Simulink/05.jpg">
+            </details>
+            <details>
+            <summary><h3>Battery State Estimation</h3></summary>
+                 <img src="../Certificate_of_Completion/assects/MathWorks/Simulink/06.jpg">
+            </details>
+            <details>
+            <summary><h3>Introduction to Motor Control</h3></summary>
+                 <img src="../Certificate_of_Completion/assects/MathWorks/Simulink/07.jpg">
+            </details>
+            <details>
+            <summary><h3>Motor Modeling with Simscape Electrical</h3></summary>
+                 <img src="../Certificate_of_Completion/assects/MathWorks/Simulink/08.jpg">
+            </details>
+            <details>
+            <summary><h3>Analyzing Results in Simulink</h3></summary>
+                 <img src="../Certificate_of_Completion/assects/MathWorks/Simulink/09.jpg">
+            </details>
+            <details>
+            <summary><h3>Power Electronics Simulation Onramp</h3></summary>
+                 <img src="../Certificate_of_Completion/assects/MathWorks/Simulink/10.jpg">
+            </details>
+            <details>
+            <summary><h3>Simulink Fundamentals</h3></summary>
+                 <img src="../Certificate_of_Completion/assects/MathWorks/Simulink/11.jpg">
+            </details>
+            <details>
+            <summary><h3>Multibody Simulation Onramp</h3></summary>
+                 <img src="../Certificate_of_Completion/assects/MathWorks/Simulink/17.jpg">
+            </details>
+            <details>
+            <summary><h3>System Composer Onramp</h3></summary>
+                 <img src="../Certificate_of_Completion/assects/MathWorks/Simulink/18.jpg">
+            </details>
+            <details>
+            <summary><h3>Stateﬂow Onramp</h3></summary>
+                 <img src="../Certificate_of_Completion/assects/MathWorks/Simulink/19.jpg">
+            </details>
+            <details>
+            <summary><h3>Circuit Simulation Onramp</h3></summary>
+                 <img src="../Certificate_of_Completion/assects/MathWorks/Simulink/20.jpg">
+            </details>
    </details>
    <details>
         <summary><h2>Matlab</h2></summary>
