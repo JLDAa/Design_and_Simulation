@@ -1,54 +1,13 @@
 <details>
-<summary><b>🛠️ MathWorks </b></summary>
-<br>
-<!-- 这里放方案A的表格或者一排排小图 -->
-<table>
-  <tr>
-    <td><img src="../Certificate_of_Completion/assects/MathWorks/Matlab/01_Matlab_Onramp.jpg" width="300"></td>
-    
-  </tr>
-</table>
-</details>
-
-<details>
-<summary><b>💻 Data-Analysis </b></summary>
-<table>
-  <tr>
-    <td><img src="./certificates/mathworks-matlab.png" width="140"></td>
-    <td><img src="./certificates/mathworks-simulink.png" width="140"></td>
-  </tr>
-</table>
-</details>
-
-<details>
-<summary><b>💻 CAD/ CAE/ CFD  </b></summary>
-<br>
-<table>
-  <tr>
-    <td><img src="./certificates/mathworks-matlab.png" width="140"></td>
-    <td><img src="./certificates/mathworks-simulink.png" width="140"></td>
-  </tr>
-</table>
-</details>
-
-<details>
-<summary><b>💻 AI </b></summary>
-<br>
-<table>
-  <tr>
-    <td><img src="./certificates/mathworks-matlab.png" width="140"></td>
-    <td><img src="./certificates/mathworks-simulink.png" width="140"></td>
-  </tr>
-</table>
-</details>
-
-<details>
-<summary><b>💻 Visualization </b></summary>
-<br>
-<table>
-  <tr>
-    <td><img src="./certificates/mathworks-matlab.png" width="140"></td>
-    <td><img src="./certificates/mathworks-simulink.png" width="140"></td>
-  </tr>
-</table>
+<summary><b>💻 MathWorks </b></summary>
+    <br style="display: block; content: ''; margin-top: 150px;">
+      <details style="margin-left: 50px; margin-bottom: 10px;">
+      <summary style="margin-left: 50px; margin-bottom: 10px;">🌱 路径一：MATLAB 基础与入门</summary>
+        <td><img src="../Certificate_of_Completion/assects/MathWorks/Matlab/01_Matlab_Onramp.jpg" width="140" alt="Matlab Onramp"></td>
+    <br>
+    <table>
+      <tr>
+        <td><img src="../Certificate_of_Completion/assects/MathWorks/Matlab/01_Matlab_Onramp.jpg" width="140" alt="Matlab Onramp"></td>
+      </tr>
+    </table>
 </details>
