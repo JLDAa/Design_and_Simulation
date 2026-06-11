@@ -31,6 +31,7 @@
 </table>
 </details>
 
+<details>
 <summary><b>💻 AI </b></summary>
 <br>
 <table>
@@ -41,8 +42,7 @@
 </table>
 </details>
 
-</details>
-
+<details>
 <summary><b>💻 Visualization </b></summary>
 <br>
 <table>
