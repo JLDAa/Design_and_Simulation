@@ -6,17 +6,17 @@
             <summary><h3>Learn Path</h3></summary>
                 <details>
                     <summary><h4>Control System Design with MATLAB and Simulink</h4></summary>
-                    <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/LearnPath/02_Control System Design with MATLAB and Simulin.jpg" width="800">
+                    <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/LearnPath/02_Control System Design with MATLAB and Simulin.jpg">
                         <summary>Control System Modeling Essentials</summary>
-                        <img src="../Certificate_of_Completion/assects/MathWorks/Simulink/02-01.jpg" width="700">
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Simulink/02-01.jpg">
                         <summary>Linearization of Nonlinear Systems</summary>
-                        <img src="../Certificate_of_Completion/assects/MathWorks/Simulink/02-02.jpg" width="700">
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Simulink/02-02.jpg">
                         <summary>Control System Analysis Techniques</summary>
-                        <img src="../Certificate_of_Completion/assects/MathWorks/Simulink/02-03.jpg" width="700">
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Simulink/02-03.jpg">
                         <summary>PID Control Techniques</summary>
-                        <img src="../Certificate_of_Completion/assects/MathWorks/Simulink/02-04.jpg" width="700">
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Simulink/02-04.jpg">
                         <summary>Classical Controller Design Techniques</summary>
-                        <img src="../Certificate_of_Completion/assects/MathWorks/Simulink/02-05.jpg" width="700">
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Simulink/02-05.jpg">
                 </details>
             </details>
    </details>
@@ -26,15 +26,121 @@
             <summary><h3>Learn Path</h3></summary>
                 <details>
                     <summary><h4>Core MATLAB Skills</h4></summary>
-                    <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/LearnPath/01_ Core MATLAB Skills.jpg" width="800">
-                        <summary> MATLAB Desktop Tools and Troubleshooting Scripts</summary>
-                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/01-01.jpg" width="700">
+                    <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/LearnPath/01_ Core MATLAB Skills.jpg">
+                        <summary>MATLAB Desktop Tools and Troubleshooting Scripts</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/01-01.jpg">
                         <summary>Explore Data with MATLAB Plots </summary>
-                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/01-02.jpg" width="700">
-                        <summary> Make and Manipulate Matrices </summary>
-                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/01-03.jpg" width="700">
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/01-02.jpg">
+                        <summary>Make and Manipulate Matrices </summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/01-03.jpg">
                         <summary>Calculations with Vectors and Matrices</summary>
-                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/01-04.jpg" width="700">
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/01-04.jpg">
+                 </details>
+                 <details>
+                    <summary><h4>Programming in MATLAB</h4></summary>
+                    <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/LearnPath/03_Programming in MATLAB.jpg">
+                        <summary>MATLAB Desktop Tools and Troubleshooting Scripts</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/01-01.jpg">
+                        <summary>Programming Constructs</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/03-02.jpg">
+                        <summary>The How and Why of Writing Functions</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/03-03.jpg">
+                 </details>
+                 <details>
+                    <summary><h4>MATLAB Skills for Simulink Modeling</h4></summary>
+                    <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/LearnPath/04_MATLAB Skills for Simulink Modeling.jpg">
+                        <summary>MATLAB Desktop Tools and Troubleshooting Scripts</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/01-01.jpg">
+                        <summary>Programming Constructs</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/03-02.jpg">
+                        <summary>The How and Why of Writing Functions</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/03-03.jpg">
+                        <summary>Explore Data with MATLAB Plots</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/04-01.jpg">
+                        <summary>Make and Manipulate Matrices</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/04-02.jpg">
+                 </details>
+                 <details>
+                    <summary><h4>Visualization in MATLAB</h4></summary>
+                    <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/LearnPath/05_Visualization in MATLAB.jpg">
+                        <summary>Explore Data with MATLAB Plots</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/04-01.jpg">
+                        <summary>Plot Beyond the Second Dimension</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/05-01.jpg">
+                        <summary>How MATLAB Graphics Work</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/05-02.jpg">
+                 </details>
+                 <details>
+                    <summary><h4>Data Analysis in MATLAB</h4></summary>
+                    <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/LearnPath/06_Data Analysis in MATLAB.jpg">
+                        <summary>Tables</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/06-01.jpg">
+                        <summary>Clean and Prepare Data for Analysis</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/06-02.jpg">
+                        <summary>Common Data Analysis Techniques</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/06-03.jpg">
+                         <summary>Find and Extract Subsets of Data</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/06-04.jpg">
+                        <summary>Calculations on Grouped Data</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/06-05.jpg">
+                 </details>
+                 <details>
+                    <summary><h4>Build MATLAB Proficiency</h4></summary>
+                    <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/LearnPath/07_Build Matlab Proficiency.jpg">
+                        <summary>MATLAB Desktop Tools and Troubleshooting Scripts</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/01-01.jpg">
+                        <summary>Explore Data with MATLAB Plots</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/04-01.jpg">
+                        <summary>Make and Manipulate Matrices</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/04-02.jpg">
+                        <summary>Calculations with Vectors and Matrices</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/07-01.jpg">
+                        <summary>Tables</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/06-01.jpg">
+                        <summary>Find and Extract Subsets of Data</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/06-04.jpg">
+                        <summary>Programming Constructs</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/03-02.jpg">
+                        <summary>The How and Why of Writing Functions</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/03-03.jpg">
+                 </details>
+                 <details>
+                    <summary><h4>Image Segmentation and Analysis in MATLAB</h4></summary>
+                    <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/LearnPath/08_Image Segmentation and Analysis in MATLAB.jpg">
+                        <summary>Color Spaces and Image Segmentation</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/08-01.jpg">
+                        <summary>Image Filtering and Enhancement</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/08-02.jpg">
+                        <summary>Semi-Automated Image Segmentation</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/08-03.jpg">
+                        <summary>Postprocessing to Improve Segmentation</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/08-04.jpg">
+                        <summary>Analyze Objects in Binary Images</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/08-05.jpg">
+                 </details>
+                 <details>
+                    <summary><h4>Machine Learning Techniques in MATLAB</h4></summary>
+                    <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/LearnPath/09_Machine Learning Techniques in MATLAB.jpg">
+                        <summary>Classification Methods with Machine Learning</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/09-01.jpg">
+                        <summary>Regression Methods with Machine Learning</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/09-02.jpg">
+                        <summary>Cluster Analysis with Machine Learning</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/09-03.jpg">
+                        <summary>Dimensionality Reduction Techniques</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/09-04.jpg">
+                 </details>
+                 <details>
+                    <summary><h4>Deep Learning Techniques in MATLAB for Image Applications</h4></summary>
+                    <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/LearnPath/10_Deep Learning Techniques in MATLAB for Image Applications.jpg">
+                        <summary>Explore Convolutional Neural Networks</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/10-01.jpg">
+                        <summary>Tune Deep Learning Training Options</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/10-02.jpg">
+                        <summary>Regression with Deep Learning</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/10-03.jpg">
+                        <summary>Object Detection with Deep Learning</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/10-04.jpg">
                  </details>
         </details>
     </details>
