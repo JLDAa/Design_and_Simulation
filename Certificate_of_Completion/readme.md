@@ -178,6 +178,30 @@
                         <summary>Unit Testing</summary>
                         <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/13-03.jpg">
                  </details>
+                 <details>
+                    <summary><h4>Advanced MATLAB Programming Skills</h4></summary>
+                    <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/LearnPath/14_Advanced MATLAB Programming Skills.jpg">
+                        <summary>A Tour of MATLAB Data Types</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/12-01.jpg">
+                        <summary>MATLAB Coding Practices for Efficiency and Performance</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/14-01.jpg">
+                        <summary>Debugging and Error Handling</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/12-03.jpg">
+                        <summary>Make Your Functions User-Friendly</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/13-01.jpg">
+                 </details>
+                 <details>
+                    <summary><h4>Core Signal Processing Techniques in MATLAB</h4></summary>
+                    <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/LearnPath/15_Core Signal Processing Techniques in MATLAB.jpg">
+                        <summary>Signal Generation and Resampling</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/15-01.jpg">
+                        <summary>Spectral Analysis Techniques</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/15-02.jpg">
+                        <summary>Time-Frequency Analysis</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/15-03.jpg">
+                        <summary>Filter Design and Analysis Methods</summary>
+                        <img src="../Certificate_of_Completion/assects/MathWorks/Matlab/images/15-01.jpg">
+                 </details>
         </details>
     </details>
 </details>
